@@ -9,4 +9,4 @@ This project uses Jupyter Notebook and Python.
 Recommended setup:
 
 ```bash
-pip install jupyter pandas numpy scikit-learn matplotlib seaborn scipy
+pip install jupyter pandas numpy scikit-learn matplotlib seaborn scipy xgboost

@@ -1,0 +1,49 @@
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files
+data/
+datasets/
+raw_data/
+processed_data/
+
+# Outputs / results
+results/
+outputs/
+figures/
+plots/
+logs/
+
+# Model files
+models/
+checkpoints/
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.h5
+
+# Large files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Credentials
+.env
+*.key
+*.pem
+credentials.json
+token.json
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
